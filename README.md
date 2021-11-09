@@ -7,6 +7,9 @@ Proactive and enthusiastic PhD Candidate and researcher with analytical mindset,
 
 
 
+[![Erol's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rlcngz)](https://github.com/rlcngz/github-readme-stats)
+
+
 ### Languages & Tools:
 
 
