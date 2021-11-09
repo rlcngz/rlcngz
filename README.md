@@ -4,6 +4,8 @@ Proactive and enthusiastic PhD Candidate and researcher with analytical mindset,
 
 ### Welcome !!! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
 
 
 <!-- [![Erol's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rlcngz)](https://github.com/rlcngz/github-readme-stats) -->
