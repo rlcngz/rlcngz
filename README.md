@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/85935341/140959494-6d61d31a-f775-4d79-921e-493fadf48e30.png)
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3Eqa.gif">
 
 
 
