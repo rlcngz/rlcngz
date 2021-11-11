@@ -1,4 +1,4 @@
-
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 
 
@@ -18,7 +18,6 @@ Proactive and enthusiastic PhD Candidate and researcher with analytical mindset,
 
 
 ### Languages & Tools:
-
 
 
 
