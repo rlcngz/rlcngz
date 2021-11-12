@@ -41,10 +41,11 @@ Proactive and enthusiastic PhD Candidate and researcher with analytical mindset,
 
 <h4>I am also familiar with</h4>
 
-<img height="28em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" /> <img height="28em" src="https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e"/>
+<img height="28em" width="75em" src="https://www.thefrontendlab.com/img/react-native.png" /> <img height="28em" src="https://camo.githubusercontent.com/c2cca0fe542f9c1271669790c7ebb6abed9cbd25d6b2cd4863b70c3951ea2df6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742d3331373843363f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" /> <img height="28em" width="75em" src="https://cdn.codersociety.com/uploads/graphql-reasons.png" /> <img height="28em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" /> <img height="28em" src="https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e"/>
 
 
-
+<h3>Projects </h3>
+<h5>I need help</h5>
  
  
 
