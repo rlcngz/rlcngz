@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="300" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 
 
@@ -17,7 +17,7 @@ Proactive and enthusiastic PhD Candidate and researcher with analytical mindset,
 <!-- [![Erol's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rlcngz)](https://github.com/rlcngz/github-readme-stats) -->
 
 
-<!-- <h3 align="left">Languages and Tools:</h3> -->
+
 
 
 
@@ -33,7 +33,14 @@ Proactive and enthusiastic PhD Candidate and researcher with analytical mindset,
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rlcngz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
+
+ <h3 align="left">Languages and Tools:</h3> 
+<img src="https://camo.githubusercontent.com/f1ce1218eb39d7e7b6d246fb5ce1f6340158187e17ba462750de73e09cd8864f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"/><img src="https://camo.githubusercontent.com/876426d64480dd18283dc72bcf0f293d6871c746d5358168e28565efc1c0334d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f6c6f676f3d7265616374266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"/>
+
+
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+ 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
