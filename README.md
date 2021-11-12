@@ -44,8 +44,15 @@ Proactive and enthusiastic PhD Candidate and researcher with analytical mindset,
 <img height="28em" width="75em" src="https://www.thefrontendlab.com/img/react-native.png" /> <img height="28em" src="https://camo.githubusercontent.com/c2cca0fe542f9c1271669790c7ebb6abed9cbd25d6b2cd4863b70c3951ea2df6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742d3331373843363f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" /> <img height="28em" width="75em" src="https://cdn.codersociety.com/uploads/graphql-reasons.png" /> <img height="28em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" /> <img height="28em" src="https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e"/>
 
 
-<h3>Projects </h3>
-<h5>I need help</h5>
+<h3> Recent Projects </h3>
+
+<h5>💻Give me the GIF😊😔😠</h5> 
+For a group-project we created an entertaining mood tracker for developers where they can enter how they're feeling and it will return a GIF related to that emotion. Login users can also write a journal entry and save it with their mood GIF to view a history of their saved feelings and journal entries. We fetched GIF's from GIPHY API and used Javascript, React, Redux, and CSS.
+
+<h5>I need help 🔧🔩</h5>
+For my portfolio project, I built an on/demand app that allows users(service providers) to create their own spaces where they can offer their service or create a profile where they can demand these services (customers). The front-end was developed with JavaScript and React. I used Redux for global state management,  and the back-end was developed with an Express server, JWT & Bcrypt authentication and a PostgreSQL database with Sequelize ORM. There was Nodemailer module to be able to send email to service provider to get in touch and I used React Leaflet to show service providers on map.
+
+
  
  
 
